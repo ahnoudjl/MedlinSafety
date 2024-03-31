@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sécurité Medlin</string>
+    <string name="select_button">Sélectionner</string>
+    <string name="name_textbox">Entrez votre nom</string>
+    <string name="id_textbox">Entrez votre ID Non</string>
+    <string name="phone_textbox">Entrez votre numéro de téléphone</string>
+    <string name="address_textbox">Entrez votre adresse</string>
+    <string name="email_textbox">Entrer votre Email</string>
+    <string name="emergency_phone_textbox">Entrez le numéro de téléphone d\'urgence</string>
+    <string name="phrase_textbox">Entrez la phrase d\'urgence</string>
+    <string name="account_btn">Créer un compte</string>
+    <string name="setting_btn">Réglage de la mise à jour</string>
+    <string name="profile_btn">Mettre à jour le profil</string>
+    <string name="menu_profile">Voir le profil</string>
+    <string name="menu_setting">Paramètres d\'affichage</string>
+    <string name="heading_home_screen">Écran d\'accueil</string>
+    <string name="heading_log_screen">Votre journal d\'aide</string>
+    <string name="heading_profile_page">Profil de l\'utilisateur</string>
+    <string name="setting_heading">Page de réglage</string>
+    <string name="btn_save">sauvegarder</string>
+    <string name="setting_updated">Paramètres mis à jour avec succès</string>
+    <string name="profile_updated">Mise à jour du profil réussie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_Help">Appuyez pour obtenir de l\'aide</string>
+    <string name="help_text">Voici ma position :</string>
+    <string name="menu_log">Afficher le journal</string>
+    <string name="title_activity_maps">Activité sur les cartes</string>
+    <string name="notification_text">Votre demande d\'aide a été envoyée</string>
+    <string name="menu_women" >Site Web d\'ONU Femmes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+</resources>

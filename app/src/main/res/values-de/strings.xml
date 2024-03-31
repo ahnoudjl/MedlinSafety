@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Medlin-Sicherheit</string>
+    <string name="select_button">Auswählen</string>
+    <string name="name_textbox">Gib deinen Namen ein</string>
+    <string name="id_textbox">Geben Sie Ihre ID-Nr</string>
+    <string name="phone_textbox">Geben Sie Ihre Telefonnummer ein</string>
+    <string name="address_textbox">Geben Sie Ihre Adresse ein</string>
+    <string name="email_textbox">Geben sie ihre E-Mail Adresse ein</string>
+    <string name="emergency_phone_textbox">Geben Sie die Notrufnummer ein</string>
+    <string name="phrase_textbox">Notfallphrase eingeben</string>
+    <string name="account_btn">Konto anlegen</string>
+    <string name="setting_btn">Update-Einstellung</string>
+    <string name="profile_btn">Profil aktualisieren</string>
+    <string name="menu_profile">Profil anzeigen</string>
+    <string name="menu_setting">Einstellungen anzeigen</string>
+    <string name="heading_home_screen">Startbildschirm</string>
+    <string name="heading_log_screen">Ihr Hilfeprotokoll</string>
+    <string name="heading_profile_page">Benutzerprofil</string>
+    <string name="setting_heading">Einstellungsseite</string>
+    <string name="btn_save">Speichern</string>
+    <string name="setting_updated">Einstellungen erfolgreich aktualisiert</string>
+    <string name="profile_updated">Profil erfolgreich aktualisiert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_Help">Tippen Sie auf, um Hilfe zu erhalten</string>
+    <string name="help_text">Das ist mein Standort:</string>
+    <string name="menu_log">Protokoll anzeigen</string>
+    <string name="title_activity_maps">Maps-Aktivität</string>
+    <string name="notification_text">Ihre Hilfeanfrage wurde gesendet</string>
+    <string name="menu_women" >UN-Frauen-Website</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+</resources>

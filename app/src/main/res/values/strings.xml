@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Medlin Safety</string>
+    <string name="select_button">Select</string>
+    <string name="name_textbox">Enter Your Name</string>
+    <string name="id_textbox">Enter Your ID No</string>
+    <string name="phone_textbox">Enter Your Phone No</string>
+    <string name="address_textbox">Enter Your Address</string>
+    <string name="email_textbox">Enter Your Email</string>
+    <string name="emergency_phone_textbox">Enter Emergency Phone No</string>
+    <string name="phrase_textbox">Enter Emergency Phrase</string>
+    <string name="account_btn">Create Account</string>
+    <string name="setting_btn">Update Setting</string>
+    <string name="profile_btn">Update Profile</string>
+    <string name="menu_profile">View Profile</string>
+    <string name="menu_setting">Settings</string>
+    <string name="heading_home_screen">Home Screen</string>
+    <string name="heading_log_screen">Your Help Log</string>
+    <string name="heading_profile_page">User Profile</string>
+    <string name="setting_heading">Setting Page</string>
+    <string name="btn_save">Save</string>
+    <string name="setting_updated">Settings Updated Successfully</string>
+    <string name="profile_updated">Profile Updated Successfully</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_Help">Tap To Get Help</string>
+    <string name="help_text">This is my location: </string>
+    <string name="menu_log">Help Log</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="notification_text">Your Help Request has been sent</string>
+    <string name="menu_women">UN Women Website</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

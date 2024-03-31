@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    android:paddingTop="20dp"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/profile_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/heading_profile_page"
+        android:textSize="30dp"></TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/profile_heading">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"></ImageView>
+
+            <Button
+                android:id="@+id/btnUploadProfile"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/image"
+                android:layout_centerHorizontal="true"
+                android:text="@string/select_button"></Button>
+
+            <EditText
+                android:id="@+id/txtName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnUploadProfile"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="20dp"
+                android:hint="@string/name_textbox"
+                android:textSize="20dp"></EditText>
+
+            <EditText
+                android:id="@+id/txtIdNo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtName"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="20dp"
+                android:hint="@string/id_textbox"
+                android:textSize="20dp"></EditText>
+
+            <EditText
+                android:id="@+id/txtPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtIdNo"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="20dp"
+                android:hint="@string/phone_textbox"
+                android:textSize="20dp"></EditText>
+
+            <EditText
+                android:id="@+id/txtAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtPhone"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="20dp"
+                android:hint="@string/address_textbox"
+                android:textSize="20dp"></EditText>
+
+            <EditText
+                android:id="@+id/txtEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:layout_below="@+id/txtAddress"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="20dp"
+                android:hint="@string/email_textbox"
+                android:textSize="20dp"></EditText>
+
+            <Button
+                android:id="@+id/btnAddProfile"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtEmail"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:text="@string/profile_btn"></Button>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

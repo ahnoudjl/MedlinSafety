@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    android:paddingBottom="20dp"
+    tools:context=".customList">
+
+
+    <TextView
+        android:id="@+id/mainHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@id/img"
+        android:text="Umair Ramzan"
+        android:textAlignment="viewStart"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/subHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainHeading"
+        android:layout_alignLeft="@+id/mainHeading"
+        android:layout_alignParentLeft="true"
+
+        android:layout_toLeftOf="@id/img"
+        android:text="03001234567"
+        android:textSize="16dp" />
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+
+        android:layout_marginTop="15dp"
+        tools:srcCompat="@drawable/map" />
+</RelativeLayout>

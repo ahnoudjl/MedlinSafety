@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ميدلين سيفتي</string>
+    <string name="select_button">يختار</string>
+    <string name="name_textbox">أدخل أسمك</string>
+    <string name="id_textbox">أدخل رقم هويتك</string>
+    <string name="phone_textbox">أدخل رقم هاتفك</string>
+    <string name="address_textbox">أدخل عنوانك</string>
+    <string name="email_textbox">أدخل بريدك الإلكتروني</string>
+    <string name="emergency_phone_textbox">أدخل رقم هاتف الطوارئ</string>
+    <string name="phrase_textbox">أدخل عبارة الطوارئ</string>
+    <string name="account_btn">إصنع حساب</string>
+    <string name="setting_btn">إعداد التحديث</string>
+    <string name="profile_btn">تحديث الملف</string>
+    <string name="menu_profile">عرض الصفحة الشخصية</string>
+    <string name="menu_setting">عرض الإعدادات</string>
+    <string name="heading_home_screen">الشاشة الرئيسية</string>
+    <string name="heading_log_screen">سجل المساعدة الخاص بك</string>
+    <string name="heading_profile_page">ملف تعريفي للمستخدم</string>
+    <string name="setting_heading">صفحة الإعداد</string>
+    <string name="btn_save">يحفظ</string>
+    <string name="setting_updated">تم تحديث الإعدادات بنجاح</string>
+    <string name="profile_updated">تم تحديث الملف الشخصي بنجاح</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_Help">انقر للحصول على المساعدة</string>
+    <string name="help_text">هذا هو موقعي:</string>
+    <string name="menu_log">سجل عرض</string>
+    <string name="title_activity_maps">نشاط الخرائط</string>
+    <string name="notification_text">تم إرسال طلب المساعدة الخاص بك</string>
+    <string name="menu_women" >موقع هيئة الأمم المتحدة للمرأة</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+</resources>
